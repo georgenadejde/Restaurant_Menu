@@ -1,0 +1,7 @@
+FP supa1 10 sarat 100 ridicata 1
+FP supa 15 sarat 150 ridicata 1
+FS piure1 120 iute 100 ridicata 30
+FS piure 30 sarat 150 medie 30
+DE tort 90 dulce 300 ridicata 1
+DE tiramisu 100 dulce 150 medie 1
+DE inghetata 90 sarat 150 medie 0

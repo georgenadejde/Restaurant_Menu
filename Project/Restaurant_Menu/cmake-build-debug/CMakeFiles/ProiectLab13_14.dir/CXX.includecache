@@ -1,0 +1,90 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/SirBunger/Documents/Cursuri Babes/OOPLabs/ProiectLab13-14/Domain/Desert.h
+Preparat.h
+C:/Users/SirBunger/Documents/Cursuri Babes/OOPLabs/ProiectLab13-14/Domain/Preparat.h
+
+C:/Users/SirBunger/Documents/Cursuri Babes/OOPLabs/ProiectLab13-14/Domain/FelulPrincipal.h
+Preparat.h
+C:/Users/SirBunger/Documents/Cursuri Babes/OOPLabs/ProiectLab13-14/Domain/Preparat.h
+
+C:/Users/SirBunger/Documents/Cursuri Babes/OOPLabs/ProiectLab13-14/Domain/FelulSecundar.h
+Preparat.h
+C:/Users/SirBunger/Documents/Cursuri Babes/OOPLabs/ProiectLab13-14/Domain/Preparat.h
+
+C:/Users/SirBunger/Documents/Cursuri Babes/OOPLabs/ProiectLab13-14/Domain/Preparat.h
+string
+-
+
+C:/Users/SirBunger/Documents/Cursuri Babes/OOPLabs/ProiectLab13-14/Domain/ValidatorDesert.h
+ValidatorPreparat.h
+C:/Users/SirBunger/Documents/Cursuri Babes/OOPLabs/ProiectLab13-14/Domain/ValidatorPreparat.h
+
+C:/Users/SirBunger/Documents/Cursuri Babes/OOPLabs/ProiectLab13-14/Domain/ValidatorFelulPrincipal.h
+ValidatorPreparat.h
+C:/Users/SirBunger/Documents/Cursuri Babes/OOPLabs/ProiectLab13-14/Domain/ValidatorPreparat.h
+
+C:/Users/SirBunger/Documents/Cursuri Babes/OOPLabs/ProiectLab13-14/Domain/ValidatorFelulSecundar.h
+Preparat.h
+C:/Users/SirBunger/Documents/Cursuri Babes/OOPLabs/ProiectLab13-14/Domain/Preparat.h
+ValidatorPreparat.h
+C:/Users/SirBunger/Documents/Cursuri Babes/OOPLabs/ProiectLab13-14/Domain/ValidatorPreparat.h
+
+C:/Users/SirBunger/Documents/Cursuri Babes/OOPLabs/ProiectLab13-14/Domain/ValidatorPreparat.h
+Preparat.h
+C:/Users/SirBunger/Documents/Cursuri Babes/OOPLabs/ProiectLab13-14/Domain/Preparat.h
+../ValidationException.h
+C:/Users/SirBunger/Documents/Cursuri Babes/OOPLabs/ProiectLab13-14/ValidationException.h
+
+C:/Users/SirBunger/Documents/Cursuri Babes/OOPLabs/ProiectLab13-14/RepoException.h
+exception
+-
+stdexcept
+-
+
+C:/Users/SirBunger/Documents/Cursuri Babes/OOPLabs/ProiectLab13-14/Repository/Repository.h
+vector
+-
+../Domain/Preparat.h
+C:/Users/SirBunger/Documents/Cursuri Babes/OOPLabs/ProiectLab13-14/Domain/Preparat.h
+../Domain/ValidatorFelulPrincipal.h
+C:/Users/SirBunger/Documents/Cursuri Babes/OOPLabs/ProiectLab13-14/Domain/ValidatorFelulPrincipal.h
+../Domain/ValidatorFelulSecundar.h
+C:/Users/SirBunger/Documents/Cursuri Babes/OOPLabs/ProiectLab13-14/Domain/ValidatorFelulSecundar.h
+../Domain/ValidatorDesert.h
+C:/Users/SirBunger/Documents/Cursuri Babes/OOPLabs/ProiectLab13-14/Domain/ValidatorDesert.h
+../RepoException.h
+C:/Users/SirBunger/Documents/Cursuri Babes/OOPLabs/ProiectLab13-14/RepoException.h
+
+C:/Users/SirBunger/Documents/Cursuri Babes/OOPLabs/ProiectLab13-14/Service/Service.cpp
+Service.h
+C:/Users/SirBunger/Documents/Cursuri Babes/OOPLabs/ProiectLab13-14/Service/Service.h
+../Domain/FelulPrincipal.h
+C:/Users/SirBunger/Documents/Cursuri Babes/OOPLabs/ProiectLab13-14/Domain/FelulPrincipal.h
+../Domain/FelulSecundar.h
+C:/Users/SirBunger/Documents/Cursuri Babes/OOPLabs/ProiectLab13-14/Domain/FelulSecundar.h
+../Domain/Desert.h
+C:/Users/SirBunger/Documents/Cursuri Babes/OOPLabs/ProiectLab13-14/Domain/Desert.h
+cstring
+-
+algorithm
+-
+
+C:/Users/SirBunger/Documents/Cursuri Babes/OOPLabs/ProiectLab13-14/Service/Service.h
+../Repository/Repository.h
+C:/Users/SirBunger/Documents/Cursuri Babes/OOPLabs/ProiectLab13-14/Repository/Repository.h
+../Domain/Preparat.h
+C:/Users/SirBunger/Documents/Cursuri Babes/OOPLabs/ProiectLab13-14/Domain/Preparat.h
+
+C:/Users/SirBunger/Documents/Cursuri Babes/OOPLabs/ProiectLab13-14/ValidationException.h
+exception
+-
+string
+-
+

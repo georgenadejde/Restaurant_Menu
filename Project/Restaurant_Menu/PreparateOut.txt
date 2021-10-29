@@ -1,0 +1,7 @@
+FP: supa1 10 sarat 100 ridicata true
+FP: supa 15 sarat 150 ridicata true
+FS: piure1 120 iute 100 ridicata 30
+FS: piure 30 sarat 150 medie 30
+D: tort 90 dulce 300 ridicata true
+D: tiramisu 100 dulce 150 medie true
+D: inghetata 90 sarat 150 medie false
