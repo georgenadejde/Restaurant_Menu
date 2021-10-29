@@ -2,9 +2,9 @@
 C++ OOP project that supports some basic operations with different kind of dishes: soups, main courses, desserts.
 They have the following characteristics:
 
-1). Soups: name, price, taste (salty/spicy), calories, demand (low/medium/high) and whether the recipe for this dish is local or not.
-2). Main Course: name, price, taste(salty/sweet/spicy), calories, demand(low/medium/high), waiting time (in minutes).
-3). Dessert: name, price, taste (salty/sweet), calories, demand (low/medium/high) and whether is suitable for someone on a diet.
+    1). Soups: name, price, taste (salty/spicy), calories, demand (low/medium/high) and whether the recipe for this dish is local or not.
+    2). Main Course: name, price, taste(salty/sweet/spicy), calories, demand(low/medium/high), waiting time (in minutes).
+    3). Dessert: name, price, taste (salty/sweet), calories, demand (low/medium/high) and whether is suitable for someone on a diet.
 
 The application has the following functionalities:
 
